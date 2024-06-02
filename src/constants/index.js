@@ -197,7 +197,7 @@
     {
       name: "3D Portfolio Website",
       description:
-        "Developed a Full stack Application using HTML5, CSS3, EJS, NODE.JS, EXPRESS.JS AND Postgres Sql as database to store the country that user have visited. Developed a full globe of earth where user can mark and have a count of Countries he/she have visited.",
+        "Developed a 3D portfolio website with ReactJS and ThreeJS using React three fiber library for 3D rendering of objects. Review the website and Message me with anything in your mind regarding this website!",
       tags: [
         {
           name: "React.js",
@@ -217,7 +217,7 @@
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/mesusheel01/CountryVis-Tracker",
+      source_code_link: "https://mesusheel01.github.io/nightSky3d-Portfolio/",
     },
   ];
   
