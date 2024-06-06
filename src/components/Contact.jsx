@@ -109,7 +109,7 @@ const Contact = () => {
               name='message'
               value={form.message}
               onChange={handleChange}
-              placeholder='Open to any ideas, share me!'
+              placeholder='Open to any ideas, share with me!'
               className='bg-lightTeal py-2 px-6 placeholder:text-dTeal text-dTeal rounded-lg outline-none border-none font-medium'
             />
           </label>
